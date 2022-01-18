@@ -1,0 +1,79 @@
+
+body{font-family: 'Roboto', sans-serif;}
+
+
+
+h1,h2,h3,h4,h5,h6,p{font-family: 'Roboto', sans-serif;}
+
+h1{font-size: 3.1rem;font-weight: 900;letter-spacing: 3px}
+.h11{font-size: 3.0rem;font-weight: 900;letter-spacing: 35px}
+
+h2{font-size: 32px;font-weight: 900;letter-spacing: 20PX}
+h21{font-size: 40px;font-weight: 900; letter-spacing: 10px}
+
+h3{font-size: 1.4rem;font-weight: 100; letter-spacing: 17px}
+h31{font-size: 1.4rem;font-weight: 100; letter-spacing: 8px}
+
+h4{font-size: 0.5rem;font-weight: 300}
+
+.h5bp{font-size: 1.4rem;font-weight: 300; letter-spacing: 8px}
+
+.parinicio{font-size: 1.5rem;font-weight: 300}
+
+
+
+
+.fondo{background:url('../imagenes/beer-2218900_1280.png');height:550px;
+			background-size:cover;
+			background-position: center;}
+
+
+
+.color{background-color: #f2f2f2;}
+
+.fondo-2{background-color: rgba(0,0,0,.5);height: 100vh;}
+
+.pb-25{padding-bottom: 2.5rem}
+
+
+
+.fondoheader{background-color: #f2f2f2;height:600px;
+			background-size:cover;}
+.tamano{height:50px}
+.tamano2{height:183px}
+.opacidad{opacity: 0%}
+
+
+.fondob{background:url('../imagenes/beer-839865_1920.jpg');height:370px;
+			background-size:cover;}
+
+.fondob1{background:url('../imagenes/beer-839865_1920.jpg');height:200px;
+				background-size:cover;}
+
+.fondoC{background:url('../imagenes/fondoc.jpg');
+			}
+
+.fondobir{background:url('../imagenes/beer83.jpg');height:450px;
+	background-position: center;
+				background-size:cover;}
+
+.noneborder{border-style: none;}	
+
+.fondob2{background:url('../imagenes/braur.b1.jpg');
+}
+
+.fondofooter{background: #200a02;}
+
+.fondopag{background-color: #201502;}
+
+.text{opacity: 50%; font-size:x-small;}
+
+
+.fondobrr{background:url('../imagenes/brauer_birras.png');height: 506px;
+	background-position: center;
+				background-size:cover;}
+
+.fondob1r{background:url('../imagenes/brauer_birreria.png');height: 506px;
+					background-position: center;
+								background-size:cover;}
+				
